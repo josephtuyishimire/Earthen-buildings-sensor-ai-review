@@ -88,3 +88,4 @@ If you use this dataset or build upon its findings, please cite the associated s
 ## Research Integrity
 
 This repository is intended for academic research, evidence verification, and scientific knowledge sharing. The dataset represents the classifications and extracted information developed during the systematic review. Users are encouraged to consult the original publications when undertaking independent verification or secondary analysis.
+[Earthen_Buildings_FINAL_DATASET.xlsx](https://github.com/user-attachments/files/33613953/Earthen_Buildings_FINAL_DATASET.xlsx)
